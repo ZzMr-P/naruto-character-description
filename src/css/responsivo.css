@@ -6,9 +6,13 @@
 
 
     main .personagem .imagem{
-        height: auto;
+        height: 85%;
     }   
+    .conteudo .logo{
+        width: 180px;
+        height: 70px;
 
+    }
     .conteudo {
         justify-content: flex-end;
         left: 0;
@@ -43,8 +47,9 @@
     }
 
     .conteudo .logo{
-        width: 170px;
-        height: 75px;
+        width: 150px;
+        height: 40px;
+        margin-bottom: 20px;
     }
 
     .conteudo {
