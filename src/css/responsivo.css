@@ -8,10 +8,8 @@
     main .personagem .imagem{
         height: 85%;
     }   
-    .conteudo .logo{
-        width: 140px;
-        height: 130px;
-    }
+
+    
     .conteudo {
         justify-content: flex-end;
         left: 0;
@@ -45,10 +43,7 @@
         height: auto;
     }
 
-    .conteudo .logo{
-        width: 140px;
-        height: 130px;
-    }
+    
 
     .conteudo {
         top: -30%;
