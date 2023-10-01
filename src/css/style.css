@@ -79,9 +79,9 @@ main .personagem .imagem{
 
 .botoes .botao{
     border: none;
-    background: none;
+    background: grey;
     cursor: pointer;
-    border-radius: 50%;
+    border-radius: 80%;
 }
 
 .botoes .botao img {
