@@ -11,7 +11,7 @@
     .conteudo .logo{
         width: 140px;
         height: 30px;
-
+        margin-bottom: 35px;
     }
     .conteudo {
         justify-content: flex-end;
@@ -49,6 +49,7 @@
     .conteudo .logo{
         width: 140px;
         height: 30px;
+        margin-bottom: 35px;
     }
 
     .conteudo {
